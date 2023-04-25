@@ -1,16 +1,8 @@
 [package]
-
-org = wso2inetum
-name = helloWorld
-version = 0.1.0
-distribution = 2201.2.3
-
-[build-options]
-observabilityIncluded = true
-org = "wso2-inetum"
-name = "hello-world"
+org = "com.inetum.wso2.choreo.test"
+name = "hello_World"
 version = "0.1.0"
-distribution = "2201.2.3"
+distribution =  "2201.5.0"
 
 [build-options]
 observabilityIncluded = true
