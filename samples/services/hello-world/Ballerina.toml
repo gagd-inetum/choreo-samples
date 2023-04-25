@@ -1,4 +1,5 @@
 [package]
+<<<<<<< HEAD
 org = wso2inetum
 name = helloWorld
 version = 0.1.0
@@ -6,3 +7,12 @@ distribution = 2201.2.3
 
 [build-options]
 observabilityIncluded = true
+=======
+org = "wso2-inetum"
+name = "hello-world"
+version = "0.1.0"
+distribution = "2201.2.3"
+
+[build-options]
+observabilityIncluded = true
+>>>>>>> 18f4015c6e088f558fee3a09d865df468dfe7d96
