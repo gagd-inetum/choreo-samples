@@ -1,2 +1,2 @@
 # choreo-samples
-Para pruebas con Choreo
+This will contain integration and service samples displayed in choreo.
