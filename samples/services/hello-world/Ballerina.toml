@@ -1,8 +1,8 @@
 [package]
-org = "com.inetum.wso2.choreo.test"
-name = "hello_World"
+org = "asitha"
+name = "reading_list_service"
 version = "0.1.0"
-distribution =  "2201.5.0"
+distribution = "2201.2.3"
 
 [build-options]
 observabilityIncluded = true
