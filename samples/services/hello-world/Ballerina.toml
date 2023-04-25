@@ -7,7 +7,6 @@ distribution = 2201.2.3
 
 [build-options]
 observabilityIncluded = true
-=======
 org = "wso2-inetum"
 name = "hello-world"
 version = "0.1.0"
